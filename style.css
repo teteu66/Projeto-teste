@@ -27,12 +27,14 @@ main{
     padding: 20px;
     background-color: azure;
     border-radius: 10px;
+    margin: 40px;
 }
 section{
     display: flex;
     align-items: center;
     justify-content: space-around;
     margin: 20px;
+    padding: 100px;
 }
 p{
     width: 400px;
@@ -44,6 +46,6 @@ section button{
     background-color: aquamarine;
     color: blueviolet;
     height: 100px;
-    width: 150px;
-    font-size: 30;
+    width: 250px;
+    font-size: 30px;
 }
