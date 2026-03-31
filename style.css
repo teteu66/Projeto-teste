@@ -43,8 +43,8 @@ img{
     width:400px ;
 }
 section button{
-    background-color: aquamarine;
-    color: blueviolet;
+    background-color: rgb(29, 54, 165);
+    color: rgb(0, 0, 0);
     height: 100px;
     width: 250px;
     font-size: 30px;
